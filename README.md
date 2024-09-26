@@ -13,6 +13,8 @@ This project implements a database management system for an online jewelry aucti
 
 ## Database Schema
 
+![relationalSchemeMapping](https://github.com/user-attachments/assets/6bfc2631-0c15-4123-9397-c6c3cc6ddb7b)
+
 ### Tables
 1. USER
 2. ADDRESS
@@ -21,7 +23,8 @@ This project implements a database management system for an online jewelry aucti
 5. BID
 
 ### Entity Relationship Diagram
-[Include your EER diagram here]
+![enhancedEntityRelationship](https://github.com/user-attachments/assets/692b0288-4ce3-48de-9e6e-727016645e76)
+
 
 ## Technologies Used
 - MySQL
