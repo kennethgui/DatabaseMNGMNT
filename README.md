@@ -81,6 +81,3 @@ ORDER BY
 
 ## Contributors
 - Kenneth Guillont
-
-## License
-[Include your chosen license here]
